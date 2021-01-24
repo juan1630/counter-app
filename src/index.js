@@ -9,4 +9,4 @@ import ReactDOM from 'react-dom';
 const divRoot = document.querySelector('#root');
 
 
-ReactDOM.render( < PrimeraApp / > , divRoot);
+ReactDOM.render( <PrimeraApp  saludo="Juan"  /> , divRoot);
