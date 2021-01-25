@@ -7,3 +7,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     padding: 30px;
 }
+
+button {
+  padding: 10px;
+  background-color: #2133EA;
+  border:  1px solid white;
+  color:white;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
