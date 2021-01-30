@@ -38,7 +38,8 @@ PrimeraApp.propTypes = {
     saludo:PropTypes.string.isRequired
 }
 
+//default props
 PrimeraApp.defaultProps = {
-  subtitulo: ''
+  subtitulo: 'Soy un subtitulo'
 }
 export default PrimeraApp;
