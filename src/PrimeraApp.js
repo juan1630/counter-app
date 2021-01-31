@@ -27,8 +27,8 @@ const PrimeraApp = ( {
 // no imprime booleans
     return (
       <>
-      <h1> {  saludo} </h1>
-      <p> { subtitulo } </p>
+      <h1> {saludo} !!!</h1>
+      <p>{ subtitulo}</p>
       </>
   );
 }

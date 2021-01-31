@@ -1,4 +1,14 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`preubas en el componente primer app debe de mostrar el componente <PrimeraApp/> 1`] = `undefined`;
-  
+exports[`preubas en el componente primer app debe de mostrar el componente <PrimeraApp/> 1`] = `
+<Fragment>
+  <h1>
+     
+    Hola soy Gokú
+     !!!
+  </h1>
+  <p>
+    Soy un subtitulo
+  </p>
+</Fragment>
+`;

@@ -29,7 +29,7 @@ const CounterApp = ({value  = 2} ) => {
   return (
     <>
     <h1> Counter App </h1>
-    <h2>  { counter } </h2>
+    <h2>{counter}</h2>
 
     <button  onClick={ handleadd } > +1 </button>
     <button  onClick={ handleRest } > -1 </button>
